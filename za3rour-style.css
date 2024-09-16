@@ -84,8 +84,8 @@
 }
 
 #image{
-    height:400;
-    width:525;
+    height:400px;
+    width:525px;
     display: inline-block;
     direction:rtl;
 }
