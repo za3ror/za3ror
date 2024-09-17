@@ -1,4 +1,3 @@
-
 let backupButton = document.getElementById('backup');
 let contentDiv = document.getElementById('content-div');
 
@@ -30,7 +29,7 @@ function createContent(count){
     content += 
     `   <div id="image">
             <img src="Buy_Plants_Online_Cheap_Prices.png" alt=":/" class="content-image">
-            <h3 style="margin-left:200px; margin-right:0px; width:150px;">العنوان</h3>
+            <h3 class='title'>العنوان</h3>
         </div>`
 
     contentDiv.innerHTML = content;
