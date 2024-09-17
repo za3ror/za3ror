@@ -37,4 +37,4 @@ function createContent(count){
     };
 };
 
-createContent(15)
+createContent(4)
