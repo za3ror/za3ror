@@ -93,7 +93,6 @@
     direction:rtl;
 }
 
-
 @media only screen and (width:810px){
     .content-image{
         height:170px;
@@ -171,6 +170,8 @@
     
 }
 
+
+
 @media only screen and (width:1080px){
     .content-image{
         height:170px;
@@ -183,6 +184,7 @@
         height:300px;
         width: 450px;
         display:inline-block;
+        text-align:left;
     }
 
     #headsection{
@@ -211,7 +213,7 @@
         height:150px;
         width:150px;
         position:absolute;
-        left:350px;
+        left:450px;
         top:20px;
     }
 
