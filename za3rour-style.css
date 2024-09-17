@@ -94,7 +94,7 @@
 }
 
 
-@media only screen and (max-width:810px){
+@media only screen and (width:810px){
     .content-image{
         height:170px;
         width:255px;
@@ -171,7 +171,7 @@
     
 }
 
-@media only screen and (max-width:1080px){
+@media only screen and (width:1080px){
     .content-image{
         height:170px;
         width:255px;
