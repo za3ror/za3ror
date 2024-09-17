@@ -29,8 +29,7 @@ function createContent(count){
     content += 
     `   <div id="image">
             <img src="Buy_Plants_Online_Cheap_Prices.png" alt=":/" class="content-image">
-            <br>
-            <h3 style="padding:0 70px;">العنوان</h3>
+            <h3 style="position:absolute; left:300px;">العنوان</h3>
         </div>`
 
     contentDiv.innerHTML = content;
