@@ -27,9 +27,9 @@ function createContent(count){
     for(let i = 0; i < count; i++){
 
     content += 
-    `   <div id="image">
+    `   <div class="image">
             <img src="Buy_Plants_Online_Cheap_Prices.png" alt=":/" class="content-image">
-            <h3 class='title'>العنوان</h3>
+            <h3 class='title'> العنوان</h3>
         </div>`
 
     contentDiv.innerHTML = content;
